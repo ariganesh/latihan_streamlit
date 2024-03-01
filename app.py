@@ -6,7 +6,7 @@ st.set_page_config(
 )
 
 # Menulis teks
-st.write("Hello world! adwiad aiwdaowdh adhawidh")
+st.write("Hello world! aku adalah seorang data scienctis")
 
 st.title("Title")
 st.header("Header")
